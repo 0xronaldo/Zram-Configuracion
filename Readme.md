@@ -1,4 +1,4 @@
-### Zram - Ubunto
+### Zram - Ubuntu - Debian
 
 antes de instalar esta alternativa a equipos con memoria ram limitada (4gb/8gb*10gb)
 o tambien depende ya que evita el uso alternativo de mayor complejidad en disco duros
